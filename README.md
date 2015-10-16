@@ -1,2 +1,4 @@
 # hello-world-
-trial 
+Hi 
+I don't know what i'm doing 
+
